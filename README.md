@@ -1,4 +1,4 @@
-# 🚀 Sauvvitech
+# ❤️🚀 Sauvvitech
 
 **Tecnologia para revolucionar o acesso à saúde!**
 
@@ -6,14 +6,16 @@
 
 ## Sobre a Sauvvitech
 
-Fundada em 2022, a **Sauvvitech** é uma startup que transforma o acesso à saúde, conectando diretamente pacientes a profissionais de saúde especializados. Inspirada em modelos inovadores, nossa plataforma oferece serviços médicos com praticidade, eliminando burocracias e longas esperas.
+Olá! Somos a **Sauvvitech**, uma startup dedicada a transformar o acesso à saúde, conectando pacientes diretamente a profissionais especializados. Inspirados em modelos inovadores, desenvolvemos uma plataforma ágil e sem burocracia, que torna serviços médicos acessíveis para todos, eliminando longas esperas e dificuldades no atendimento.
 
 ---
 
-## Nosso Novo Sistema
+## Nosso Novo Aplicativo
 
-Estamos desenvolvendo um novo aplicativo com foco na melhor experiência para nossos pacientes e parceiros. O objetivo é facilitar ainda mais o acesso a serviços médicos, proporcionando praticidade, segurança e rapidez no agendamento e gerenciamento das consultas.
+Estamos criando um novo aplicativo pensado especialmente na experiência dos nossos pacientes e parceiros. Nosso objetivo é proporcionar um acesso ainda mais fácil e intuitivo aos serviços médicos, garantindo rapidez, segurança e praticidade no agendamento, gestão de consultas e acompanhamento do atendimento.
 
 ---
 
 **Sauvvitech – Saúde para todos!**
+
+
